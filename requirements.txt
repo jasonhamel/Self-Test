@@ -42,3 +42,7 @@ Throwing an unchecked exception on a method vs having it return false and handle
 
                                 ANSWERS
 ENUM Babyyyyy
+
+
+                                IDEAS TO IMPROVE
+Showing portfolio after a purchase to confirm it
